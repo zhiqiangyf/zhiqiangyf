@@ -1,0 +1,8 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marketing icon">
+  <path d="M10 50L22 40L34 44L46 24L54 30" stroke="#FFB703" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="10" cy="50" r="4" fill="#FB8500"/>
+  <circle cx="22" cy="40" r="4" fill="#FB8500"/>
+  <circle cx="34" cy="44" r="4" fill="#FB8500"/>
+  <circle cx="46" cy="24" r="4" fill="#FB8500"/>
+  <circle cx="54" cy="30" r="4" fill="#FB8500"/>
+</svg>

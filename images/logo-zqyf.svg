@@ -1,0 +1,9 @@
+<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Sichuan Zhiqiang Yunfan Technology Co., Ltd</title>
+  <desc id="logoDesc">ZQYF corporate logo</desc>
+  <rect x="1" y="1" width="218" height="62" rx="10" stroke="#FFFFFF" stroke-width="2"/>
+  <path d="M20 44L42 20H20V14H52V20L30 44H52V50H20V44Z" fill="#FFFFFF"/>
+  <path d="M65 50V14H91C102 14 108 19 108 28C108 34 105 39 99 42L111 50H101L90 43H73V50H65ZM73 37H90C96 37 100 34 100 29C100 24 96 21 90 21H73V37Z" fill="#FFFFFF"/>
+  <path d="M116 14H124L136 33L148 14H156L140 40V50H132V40L116 14Z" fill="#FFFFFF"/>
+  <text x="166" y="39" fill="#FFFFFF" font-size="18" font-family="Verdana, sans-serif" font-weight="700">F</text>
+</svg>

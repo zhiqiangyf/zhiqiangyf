@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mobile management icon">
+  <rect x="18" y="8" width="28" height="48" rx="6" fill="#0B132B"/>
+  <rect x="22" y="14" width="20" height="32" rx="2" fill="#5BC0BE"/>
+  <circle cx="32" cy="51" r="2.5" fill="#FFFFFF"/>
+  <path d="M27 26L31 30L38 23" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

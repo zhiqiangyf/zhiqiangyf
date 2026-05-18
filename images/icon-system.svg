@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="System integration icon">
+  <rect x="8" y="12" width="20" height="16" rx="2" fill="#3A86FF"/>
+  <rect x="36" y="12" width="20" height="16" rx="2" fill="#3A86FF"/>
+  <rect x="22" y="36" width="20" height="16" rx="2" fill="#3A86FF"/>
+  <path d="M28 20H36M32 28V36" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+</svg>
